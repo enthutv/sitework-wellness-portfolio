@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[1133,[],""]
+3:I[4297,[],""]
+7:"static/chunks/568-66e5f4bdc1fba52f.js"
+8:"static/chunks/app/page-c450efddb4b6f879.js"
+9:I[9568,["568","$7","974","$8"],""]
+a:I[1872,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[1872,[],"$e"]
+10:"MetadataBoundary"
+11:I[1872,[],"$10"]
+:HL["/_next/static/css/918f1f729231c151.css","style"]
+5:X
+6:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":880,"margin":"auto","padding":"12vh 28px","fontFamily":"-apple-system,BlinkMacSystemFont,Arial,sans-serif","color":"#26352f"},"children":[["$","p",null,{"style":{"fontSize":12,"letterSpacing":2,"color":"#637b64"},"children":"SITEWORK WELLNESS STORE"}],["$","h1",null,{"style":{"fontSize":"clamp(34px,6vw,60px)","lineHeight":1.1,"letterSpacing":-2,"margin":"24px 0"},"children":"AI-Powered Operations Team"}],["$","p",null,{"style":{"fontSize":18,"lineHeight":1.8,"color":"#617565"},"children":"Eight specialists. One connected workflow. Watch recorded work in the Pixel Office, explore employee responsibilities and follow the evidence behind business outcomes."}],["$","$L9",null,{"style":{"display":"inline-block","padding":"16px 24px","borderRadius":12,"background":"#365d48","color":"#fff","margin":"28px 0"},"href":"/wellness/intelligence","children":"Open Operational Intelligence →"}],["$","p",null,{"style":{"fontSize":12,"color":"#6e806b"},"children":"Explore the workflow and the team behind it."}]]}],null,["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$5"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/918f1f729231c151.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@4","v":null,"s":"$5"},"c":"$Q6"},"h":{"r":["$","$1","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sitework Wellness Store"}]]}]}],null]}],null]}],"p":"$@12","v":null,"s":"$5"}},"a":"$@13","u":"$@14","b":"13eQA-zwkZOiPvpVr1bi5"}
+c:null
+5:300
+14:true
+5:C
+13:0
+4:"$undefined"
+12:"$undefined"
+d:"$undefined"
